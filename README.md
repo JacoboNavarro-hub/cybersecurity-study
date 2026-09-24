@@ -1,25 +1,23 @@
-# Jacobo Navarro | Systems & Cybersecurity
+# Cybersecurity Study
 
-Repositorio personal para reunir mi portfolio, mis proyectos y mi proceso de aprendizaje en administracion de sistemas, redes y ciberseguridad.
+Repositorio personal de teoria y apuntes para aprender ciberseguridad.
 
 ## Estructura
 
 ```text
 .
-├── portfolio/
-│   └── index.html       # Pagina personal para GitHub Pages
 └── theory/
 	└── Study.md        # Guia de estudio de ciberseguridad
 ```
 
 ## Secciones
 
-- [Portfolio](portfolio/index.html): presentacion, habilidades y proyectos.
 - [Teoria y apuntes](theory/Study.md): redes, seguridad, Linux, Python, trafico, cloud y hacking etico.
+- [Portfolio personal](https://jacobonavarro-hub.github.io/): presentacion, intereses y proyecto intermodular.
 
 ## Publicacion
 
-La pagina se puede publicar con GitHub Pages usando la rama `main` y la carpeta raiz. El archivo `index.html` de la raiz redirige al portfolio.
+Los apuntes se mantienen separados del portfolio, que tiene su propio repositorio y se publica con GitHub Pages.
 
 ## Autor
 
