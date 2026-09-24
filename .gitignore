@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Operating system
+.DS_Store
+Thumbs.db
