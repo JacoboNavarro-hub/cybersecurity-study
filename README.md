@@ -1,34 +1,26 @@
-# 90 Days of Cybersecurity
+# Jacobo Navarro | Systems & Cybersecurity
 
-Guia personal de estudio para aprender fundamentos de redes, sistemas, programacion y ciberseguridad durante 90 dias.
+Repositorio personal para reunir mi portfolio, mis proyectos y mi proceso de aprendizaje en administracion de sistemas, redes y ciberseguridad.
 
-## Contenido
+## Estructura
 
-- Redes y protocolos
-- Conceptos de seguridad
-- Linux
-- Python aplicado a seguridad
-- Analisis de trafico
-- Git y control de versiones
-- ELK y monitorizacion
-- Seguridad en la nube
-- Practica y hacking etico
+```text
+.
+├── portfolio/
+│   └── index.html       # Pagina personal para GitHub Pages
+└── theory/
+	└── Study.md        # Guia de estudio de ciberseguridad
+```
 
-## Como usar esta guia
+## Secciones
 
-1. Lee el bloque correspondiente del plan.
-2. Practica los comandos y conceptos en un entorno seguro.
-3. Escribe tus propias conclusiones.
-4. Marca tu progreso en el apartado de seguimiento.
+- [Portfolio](portfolio/index.html): presentacion, habilidades y proyectos.
+- [Teoria y apuntes](theory/Study.md): redes, seguridad, Linux, Python, trafico, cloud y hacking etico.
 
-El contenido completo se encuentra en [Study.md](Study.md).
+## Publicacion
 
-## Objetivo
-
-Construir una base practica para continuar formandome en administracion de sistemas, redes y ciberseguridad.
+La pagina se puede publicar con GitHub Pages usando la rama `main` y la carpeta raiz. El archivo `index.html` de la raiz redirige al portfolio.
 
 ## Autor
 
-Jacobo Navarro
-
-Este repositorio recoge apuntes y material de estudio personal.
+Jacobo Navarro · [LinkedIn](https://www.linkedin.com/in/jacobo-navarro-de-alfonso-9198003b6/) · [GitHub](https://github.com/JacoboNavarro-hub)
